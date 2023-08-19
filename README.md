@@ -25,17 +25,20 @@ Weather application built using HTML, CSS, and JavaScript. The application allow
 **How to Use:**
 
 1. **Get Your API Key:** The first step is to access OpenWeatherMap and create an API key. Visit the OpenWeatherMap website, sign up for an account if you don't have one, and generate your unique API key. This key is essential for the application to fetch weather data.
+
 ![2](https://github.com/Samq24/Weather-Application/assets/98496928/72431ed2-674c-47d7-8dc9-e8dfce395cd0)
 
 2. **Enter the City Name:** In the provided input field, type the name of the city you want to retrieve weather information for.
+
 ![1](https://github.com/Samq24/Weather-Application/assets/98496928/a97da736-a4c7-4775-ad93-495fdfe4fe40)
 
 3. **Retrieve Weather Information:** Click on the search button. This action triggers the application to communicate with the OpenWeatherMap API using your API key.
 
 4. **Explore Weather Data:** Once the API request is successful, the application will display real-time weather information for the entered city. This includes details like the current temperature, humidity level, and wind speed.
+
 ![3](https://github.com/Samq24/Weather-Application/assets/98496928/85c01a09-83ea-4009-95c2-df743b686902)
 ![4](https://github.com/Samq24/Weather-Application/assets/98496928/9981f8c6-e960-433f-923f-54fefbe94990)
 
-6. **Error Handling:** Should you encounter any issues, such as entering an invalid city name or facing technical errors, the application will display relevant error messages. These messages will guide you on how to rectify the situation.
+5. **Error Handling:** Should you encounter any issues, such as entering an invalid city name or facing technical errors, the application will display relevant error messages. These messages will guide you on how to rectify the situation.
 
 This is a simple weather application to demonstrate the use of JavaScript to interact with an API.
